@@ -23,6 +23,8 @@ We have helped Steve to analyze the solar energy stock tickers so he can help hi
   
   https://github.com/ttan0408/stock-analysis/blob/main/VBA_Challenge_2018.PNG
   
+  https://github.com/ttan0408/stock-analysis/blob/main/VBA_Challenge_2018_Return.PNG
+  
   
   
   
