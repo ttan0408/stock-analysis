@@ -9,6 +9,17 @@ We have helped Steve to analyze the solar energy stock tickers so he can help hi
    
    TERP is the only company has the negative return eventhough 2017 seems to be a good year for solar energy stock market.
    
-   All the statistical summary of 2017 12 stocks analysis are here :  
+   All the statistical summary of 2017 12 stocks analysis are here :  https://github.com/ttan0408/stock-analysis/blob/main/VBA_Challenge_2017_Return.PNG
 
 #### 2018 Stock Rate of Return:
+
+  2018 is the bad year for the solar energy market, since most of the company has negative return with DQ and JKS are the worse in the 12 stock tickers
+  
+  Interesting, eventhough 2018 is the bad year but ENPH and RUN made it through impressive positive return of 80% with also highest trading volume in 2018
+  
+  Macro analysis run time for 2018 iis also improve from 0.8 second to 0.1 second after refactoring the VBA code.
+  
+  All the summary and run time speed are list as below 
+  
+  
+  
