@@ -25,6 +25,11 @@ We helped Steve to analyze the solar energy stock tickers so he can help his par
   
   https://github.com/ttan0408/stock-analysis/blob/main/VBA_Challenge_2018_Return.PNG
   
+  Resource Folder is here : 
+  https://github.com/ttan0408/stock-analysis/blob/main/Resources.zip
+  
+  Macro folder is here :
+  
   
   
   
