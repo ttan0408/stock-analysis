@@ -19,7 +19,10 @@ We have helped Steve to analyze the solar energy stock tickers so he can help hi
   
   Macro analysis run time for 2018 iis also improve from 0.8 second to 0.1 second after refactoring the VBA code.
   
-  All the summary and run time speed are list as below 
+  All the summary and run time speed are list as below:
+  
+  https://github.com/ttan0408/stock-analysis/blob/main/VBA_Challenge_2018.PNG
+  
   
   
   
